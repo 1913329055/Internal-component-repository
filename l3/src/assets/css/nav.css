@@ -1,0 +1,175 @@
+.def {
+  /*section*/
+  /*nav*/
+}
+.def .section {
+  min-width: 240px;
+  min-height: calc(100vh - 188px);
+  border-right: 1px #ccc solid;
+  padding-top: 40px;
+}
+.def .section .sec_tex {
+  font-family: PingFangSC-Semibold;
+  font-size: 18px;
+  color: #424656;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+.def .section ul {
+  margin-bottom: 32px;
+}
+.def .section ul li {
+  margin-left: 40px;
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #636778;
+  margin-bottom: 16px;
+}
+.def .nav {
+  padding: 40px;
+  margin: 0;
+  width: 100%;
+}
+.def .nav .nav_titl {
+  font-family: PingFangSC-Semibold;
+  font-size: 24px;
+  color: #424656;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+.def .nav .nav_input {
+  /*Mask*/
+}
+.def .nav .nav_input input {
+  text-indent: 6px;
+  width: 200px;
+  height: 32px;
+  border: 1px #ccc solid;
+  outline: none;
+}
+.def .nav .nav_input .inp_btn {
+  padding: 6px 24px;
+  background: #2277da;
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.def .nav .nav_input .inp_btn span {
+  margin-right: 4px;
+  display: inline-block;
+  vertical-align: middle;
+  background: url("../img/加号.png") no-repeat;
+  background-size: 100%;
+  width: 14px;
+  height: 14px;
+}
+.def .nav .nav_input .mask .el-dialog {
+  box-sizing: border-box;
+  padding: 24px;
+  min-width: 474px;
+  height: 546px;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__title {
+  margin-top: 4px;
+  font-family: PingFangSC-Semibold;
+  font-size: 16px;
+  color: #424656;
+  font-weight: bold;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__header {
+  padding: 20px 0px 33px;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__body {
+  margin: 0;
+  padding: 0;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__body .el-row {
+  margin-bottom: 24px;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__body .el-row :last-child {
+  margin-bottom: 0;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__body .el-row .bg-purple {
+  line-height: 40px;
+  font-family: PingFangSC-Medium;
+  font-size: 14px;
+  color: #424656;
+  line-height: 22px;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__body .el-row .bg-purple-light input {
+  width: 100%;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__body .el-row .bg-purple-light textarea {
+  resize: none;
+  width: 100%;
+  border: 1px #ccc solid;
+  outline: none;
+  text-indent: 6px;
+}
+.def .nav .nav_input .mask .el-dialog .el-dialog__body .el-row .el-button {
+  padding: 8px 36px;
+  line-height: normal;
+}
+.def .nav .tal {
+  width: 100%;
+  margin-top: 24px;
+  text-align: left;
+  border-collapse: collapse;
+}
+.def .nav .tal thead {
+  background: #f4f9ff 100%;
+  font-family: PingFangSC-Semibold;
+  font-size: 16px;
+  color: #424656;
+}
+.def .nav .tal td,
+.def .nav .tal th {
+  padding: 12px 24px;
+}
+.def .nav .tal .tal_body tr {
+  border-bottom: 1px solid #ecedf1;
+}
+.def .nav .tal .tal_body tr td:nth-child(5)::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  background: url("../img/1.png") no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 18px;
+  margin-right: 2px;
+}
+.def .nav .tal .tal_body tr td:last-child::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  background: url("../img/3.png") no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 18px;
+  margin-right: 2px;
+}
+.def .nav .tal .tal_body td {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #636778;
+}
+.def .nav .tal .tal_body tr td:first-child,
+.def .nav .tal .tal_body td:last-child,
+.def .nav .tal .tal_body td:nth-child(5) {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #538ff8;
+}
+.def .nav .tal .tal_body .change td:nth-child(5)::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  background: url("../img/2.png") no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 18px;
+  margin-right: 2px;
+}

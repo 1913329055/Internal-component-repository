@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>ic_前往</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1_Repo列表" transform="translate(-1208.000000, -388.000000)" fill="#538FF8" fill-rule="nonzero">
+            <g id="列表" transform="translate(280.000000, 326.000000)">
+                <g id="编组" transform="translate(924.000000, 12.000000)">
+                    <g id="ic_前往" transform="translate(0.000000, 45.000000)">
+                        <g id="star" transform="translate(4.000000, 5.000000)">
+                            <path d="M7.5,11.6085145 L2.86474508,14 L3.75,8.93475242 L0,5.34752416 L5.18237254,4.60851449 L7.5,0 L9.81762746,4.60851449 L15,5.34752416 L11.25,8.93475242 L12.1352549,14 L7.5,11.6085145 Z M4.19666171,12.1875688 L7.5,10.4832644 L10.8033383,12.1875688 L10.1730361,8.58110843 L12.8220624,6.04706516 L9.15905265,5.5247176 L7.5,2.2257542 L5.84094735,5.5247176 L2.17793755,6.04706516 L4.82696393,8.58110843 L4.19666171,12.1875688 Z" id="Star"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

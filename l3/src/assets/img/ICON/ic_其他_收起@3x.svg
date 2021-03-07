@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>选择_上</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.1_组件搜索" transform="translate(-351.000000, -275.000000)">
+            <g id="输入框/数字输入框/正在输入态" transform="translate(280.000000, 270.000000)">
+                <g id="ICON/展开/正常-Copy-6" transform="translate(69.000000, 2.400000)">
+                    <g id="选择_上">
+                        <polygon id="carret_up" fill-opacity="0.5" fill="#424656" points="7 3.26666667 11.6666667 7.93333333 2.33333333 7.93333333"></polygon>
+                        <rect id="24x24" x="0" y="0" width="14" height="11.2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

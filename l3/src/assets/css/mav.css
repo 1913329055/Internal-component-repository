@@ -1,0 +1,77 @@
+.mav {
+  width: 100%;
+}
+.mav .nav .nav_input .tabs {
+  width: 100%;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tab-pane .tal .tal_body .el-dropdown .el-dropdown-link {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #538ff8;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tab-pane .tal .tal_body span {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #d84223;
+  cursor: pointer;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__header {
+  margin: 0 0 40px;
+}
+.mav .nav .nav_input .tabs .el-tabs .power {
+  font-size: 14px;
+  color: #636778;
+  margin-top: 24px;
+}
+.mav .nav .nav_input .tabs .el-tabs .power :first-child {
+  border-right: none;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .menu-use .first_box {
+  background-color: #f4f9ff;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .menu-use .first_box #areaTree {
+  height: 100%;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .menu-use .el-button {
+  margin-top: 40px;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .mav_tex {
+  font-family: PingFangSC-Semibold;
+  font-size: 18px;
+  color: #424656;
+  font-weight: bold;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .liMenu {
+  padding: 6px 14px;
+  cursor: pointer;
+  border: 1px solid #d9d9d9;
+  text-align: center;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .liMenu.hover {
+  border: 1px solid #2277da;
+  color: #538ff8;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .input_jur,
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .input_use {
+  display: inline-block;
+  margin: 0 40px;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .input_jur .el-dropdown-link {
+  cursor: pointer;
+  color: #409eff;
+}
+.mav .nav .nav_input .tabs .el-tabs .el-tabs__content .input_jur .el-icon-arrow-down {
+  font-size: 12px;
+}
+.mav .nav .nav_input .option {
+  width: 100%;
+}
+.mav .nav .nav_input .option .grid-content {
+  margin-bottom: 24px;
+  font-family: PingFangSC-Semibold;
+  font-size: 14px;
+  color: #424656;
+  line-height: 28px;
+}

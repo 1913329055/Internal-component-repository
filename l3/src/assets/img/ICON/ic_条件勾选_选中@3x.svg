@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>勾选</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.2_组件搜索_依赖申明" transform="translate(-1111.000000, -280.000000)" fill="#538FF8">
+            <g id="搜索" transform="translate(280.000000, 270.000000)">
+                <g id="勾选" transform="translate(831.000000, 10.000000)">
+                    <path d="M0,0 L16,0 L16,16 L0,16 L0,0 Z M7,10 L4,7 L3,8 L7,12 L14,6 L13,5 L7,10 Z" id="形状结合"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,145 @@
+.sel .tabs {
+  height: 306px;
+}
+.sel .bg-purple {
+  margin-right: 20px;
+}
+.sel .el-tabs--border-card {
+  box-shadow: none;
+}
+.sel .nav {
+  margin: 40px;
+  width: 100%;
+}
+.sel .nav .ht {
+  font-family: Helvetica;
+  font-size: 14px;
+  color: #646fce;
+  line-height: 22px;
+}
+.sel .nav .nav_titl {
+  font-family: PingFangSC-Semibold;
+  font-size: 24px;
+  color: #424656;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+.sel .nav .nav_input .radio {
+  line-height: 40px;
+}
+.sel .nav .nav_input .radio .tex {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #8a8d9a;
+}
+.sel .nav .nav_input_sel {
+  margin: 0 24px 0 16px;
+}
+.sel .nav .el-input {
+  width: 27.8%;
+}
+.sel .nav .el-button {
+  margin-right: 48px;
+}
+.sel .nav .tal {
+  width: 100%;
+  margin-top: 24px;
+  text-align: left;
+  border-collapse: collapse;
+}
+.sel .nav .tal thead {
+  background: #f4f9ff 100%;
+  font-family: PingFangSC-Semibold;
+  font-size: 16px;
+  color: #424656;
+}
+.sel .nav .tal td,
+.sel .nav .tal th {
+  padding: 12px 24px;
+}
+.sel .nav .tal td {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #636778;
+}
+.sel .nav .sel_tex {
+  margin: 40px 0 24px 0;
+  font-family: PingFangSC-Semibold;
+  font-size: 18px;
+  color: #424656;
+  font-weight: bold;
+}
+.sel .nav .lay_one .bg-purple {
+  border: 1px solid #e1e2e7;
+}
+.sel .nav .lay_tow .bg-purple {
+  border: none;
+}
+.sel .nav .tal_body tr {
+  border-bottom: 1px solid #ecedf1;
+}
+.sel .nav .tal_body tr td:nth-child(5)::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  background: url("../img/1.png") no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 18px;
+  margin-right: 2px;
+}
+.sel .nav .tal_body tr td:last-child::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  background: url("../img/3.png") no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 18px;
+  margin-right: 2px;
+}
+.sel .nav .tal_body td {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #636778;
+}
+.sel .nav .tal_body tr td:first-child,
+.sel .nav .tal_body td:last-child,
+.sel .nav .tal_body td:nth-child(5) {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #538ff8;
+}
+.sel .nav .tal_body .change td:nth-child(5)::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  background: url("../img/2.png") no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 18px;
+  margin-right: 2px;
+}
+.sel #areaTree {
+  height: 306px;
+  margin-bottom: 2px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.sel #areaTree .box-title {
+  border-radius: 3px 3px 0 0;
+  background-color: #f5f5f5;
+}
+.sel #areaTree .box-title a {
+  color: #2fa4e7;
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+.sel #areaTree .box-title .fa {
+  float: right;
+  line-height: 20px;
+}
